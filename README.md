@@ -83,6 +83,7 @@ Handles user input processing, validation, and ensuring accurate data submission
 ### Activity 5 – Testing and Final Implementation
 Includes testing, debugging, and final improvements before deployment.
 
+Application Development and Emerging Technologies
 # Activity 4 – CampusPass: Student Entry & Attendance Tracking System – Database Design, Reservation Management, and System Evaluation
 
 ## Description
